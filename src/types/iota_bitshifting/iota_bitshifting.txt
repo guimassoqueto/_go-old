@@ -1,0 +1,2 @@
+iota: https://go.dev/ref/spec#Iota
+bit shifting: 
